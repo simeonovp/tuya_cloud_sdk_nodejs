@@ -1,0 +1,36 @@
+{
+  "name": "tuya_cloud_sdk_nodejs",
+  "version": "1.1.0",
+  "description": "涂鸦云 API NODEJS SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=7.10.0"
+  },
+  "keywords": [
+    "tuyacloudapi",
+    "tuyacloud",
+    "sdk",
+    "nodejs"
+  ],
+  "dependencies": {
+    "async-await-retry": "^1.0.4"
+  },
+  "author": {
+    "name": "tuyacloudapi, Peter Simeonov"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "bugs": {
+    "url": "https://github.com/simeonovp/xmeye-js-lib/issues"
+  },
+  "homepage": "https://github.com/simeonovp/simeonovp/tuya_cloud_sdk_nodejs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simeonovp/tuya_cloud_sdk_nodejs.git"
+  }
+}
